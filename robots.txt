@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-langit-malam.github.io/sitemap.xml
